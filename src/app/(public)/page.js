@@ -154,7 +154,7 @@ export default function HomePage() {
                             </h1>
 
                             <p className="text-lg text-gray-300 leading-relaxed mb-10 max-w-xl">
-                                RentItFit manages tenants, rent collection, agreements and
+                                RentIt manages tenants, rent collection, agreements and
                                 property maintenance so property owners earn stable rental
                                 income without hassle.
                             </p>
@@ -321,7 +321,7 @@ export default function HomePage() {
             <section className="section-padding bg-primary" id="benefits">
                 <div className="container-max">
                     <SectionHeading
-                        title="Why Choose RentItFit"
+                        title="Why Choose RentIt"
                         subtitle="Benefits that make property ownership truly passive."
                         light
                     />
@@ -349,7 +349,7 @@ export default function HomePage() {
                         transition={{ duration: 0.6 }}
                     >
                         <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-white mb-6">
-                            Let RentItFit Manage Your Property
+                            Let RentIt Manage Your Property
                         </h2>
                         <p className="text-white/80 text-lg mb-10 max-w-2xl mx-auto">
                             Join hundreds of satisfied property owners who enjoy hassle-free

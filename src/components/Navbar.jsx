@@ -41,7 +41,7 @@ export default function Navbar() {
                         className={`text-xl font-bold transition-colors duration-300 ${scrolled ? 'text-primary' : 'text-white'
                             }`}
                     >
-                        Rent<span className="text-accent">It</span>Fit
+                        Rent<span className="text-accent">It</span>
                     </span>
                 </Link>
 

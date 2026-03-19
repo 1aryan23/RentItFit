@@ -71,7 +71,7 @@ export default function AdminLoginPage() {
                                     onChange={(e) => setEmail(e.target.value)}
                                     required
                                     className="form-input !pl-11"
-                                    placeholder="admin@rentitfit.com"
+                                    placeholder="admin@rentit.com"
                                 />
                             </div>
                         </div>

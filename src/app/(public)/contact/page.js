@@ -9,8 +9,8 @@ const contactInfo = [
     {
         icon: HiMail,
         title: 'Email Us',
-        value: 'info@rentitfit.com',
-        link: 'mailto:info@rentitfit.com',
+        value: 'info@rentit.com',
+        link: 'mailto:info@rentit.com',
     },
     {
         icon: HiPhone,

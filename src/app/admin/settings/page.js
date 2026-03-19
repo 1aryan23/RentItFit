@@ -44,7 +44,7 @@ export default function AdminSettingsPage() {
                                     <p className="font-medium text-sm text-primary">Admin Email</p>
                                     <p className="text-gray-500 text-xs mt-0.5">Update in environment variables</p>
                                 </div>
-                                <span className="text-sm text-gray-400">admin@rentitfit.com</span>
+                                <span className="text-sm text-gray-400">admin@rentit.com</span>
                             </div>
                             <div className="flex items-center justify-between p-4 bg-gray-50 rounded-xl">
                                 <div>

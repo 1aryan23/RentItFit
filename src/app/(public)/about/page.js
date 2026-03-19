@@ -57,7 +57,7 @@ export default function AboutPage() {
                         transition={{ duration: 0.6 }}
                     >
                         <h1 className="text-4xl md:text-5xl font-bold text-white mb-6">
-                            About <span className="text-accent">RentItFit</span>
+                            About <span className="text-accent">RentIt</span>
                         </h1>
                         <p className="text-gray-300 text-lg leading-relaxed">
                             We&apos;re on a mission to make property ownership truly passive —
@@ -88,7 +88,7 @@ export default function AboutPage() {
                             </div>
                             <h2 className="text-2xl font-bold text-primary mb-4">Our Vision</h2>
                             <p className="text-gray-600 leading-relaxed">
-                                RentItFit aims to simplify property ownership through professional
+                                RentIt aims to simplify property ownership through professional
                                 rental management. We envision a world where owning rental
                                 property is as simple as owning a mutual fund — you invest, and we
                                 handle everything else to deliver consistent, optimized returns.

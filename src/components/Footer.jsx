@@ -29,7 +29,7 @@ export default function Footer() {
                                 <span className="text-white font-bold text-lg">R</span>
                             </div>
                             <span className="text-xl font-bold">
-                                Rent<span className="text-accent">It</span>Fit
+                                Rent<span className="text-accent">It</span>
                             </span>
                         </Link>
                         <p className="text-gray-400 text-sm leading-relaxed">
@@ -78,7 +78,7 @@ export default function Footer() {
                         <ul className="space-y-4">
                             <li className="flex items-start gap-3">
                                 <HiMail className="text-accent mt-0.5 flex-shrink-0" size={18} />
-                                <span className="text-gray-400 text-sm">info@rentitfit.com</span>
+                                <span className="text-gray-400 text-sm">info@rentit.com</span>
                             </li>
                             <li className="flex items-start gap-3">
                                 <HiPhone className="text-accent mt-0.5 flex-shrink-0" size={18} />
@@ -99,7 +99,7 @@ export default function Footer() {
             <div className="border-t border-white/10">
                 <div className="container-max px-4 md:px-8 py-6 flex flex-col md:flex-row items-center justify-between gap-4">
                     <p className="text-gray-500 text-sm">
-                        &copy; {new Date().getFullYear()} RentItFit. All rights reserved.
+                        &copy; {new Date().getFullYear()} RentIt. All rights reserved.
                     </p>
                     <div className="flex items-center gap-6">
                         <Link href="#" className="text-gray-500 hover:text-accent text-sm transition-colors">

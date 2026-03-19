@@ -2,11 +2,11 @@ import './globals.css';
 
 export const metadata = {
     title: {
-        default: 'RentItFit — Smart Property Management',
-        template: '%s | RentItFit',
+        default: 'RentIt — Smart Property Management',
+        template: '%s | RentIt',
     },
     description:
-        'RentItFit manages tenants, rent collection, agreements and property maintenance so property owners earn stable rental income without hassle.',
+        'RentIt manages tenants, rent collection, agreements and property maintenance so property owners earn stable rental income without hassle.',
     keywords: [
         'property management',
         'rental income',
@@ -16,11 +16,11 @@ export const metadata = {
         'rental management',
     ],
     openGraph: {
-        title: 'RentItFit — Smart Property Management',
+        title: 'RentIt — Smart Property Management',
         description:
             'Professional property management for stress-free rental income.',
-        url: 'https://rentitfit.com',
-        siteName: 'RentItFit',
+        url: 'https://rentit.com',
+        siteName: 'RentIt',
         type: 'website',
     },
 };
